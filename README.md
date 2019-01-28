@@ -1,4 +1,4 @@
-# JupyterSparkGraphFrames
+# JupyterSparkGraphFrames Docker Image
 Available on DockerHub: https://hub.docker.com/r/tomerlevi/jupyter-spark-graphframes
 
 This image includes Jupyter notebook server including Spark and GraphFrames lib. The image is based on the official jupyter/all-spark-notebook
